@@ -1,0 +1,13 @@
+set(XYXLNT_VERSION "@xyxlnt_VERSION@")
+
+@PACKAGE_INIT@
+
+get_filename_component(XYXLNT_CMAKE_DIR "${CMAKE_CURRENT_LIST_FILE}" PATH)
+
+set_and_check(XYXLNT_INCLUDE_DIR "@XYXLNT_INCLUDE_INSTALL_DIR@")
+
+check_required_components(xyxlnt)
+
+if(NOT TARGET xyxlnt::xyxlnt)
+  include("${XYXLNT_CMAKE_DIR}/XYXlntTargets.cmake")
+endif()

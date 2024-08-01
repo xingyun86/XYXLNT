@@ -1,5 +1,4 @@
 
-[![Travis Build Status](https://github.com/xingyun86/xyxyxlnt.svg?branch=master)](https://github.com/xingyun86/xyxyxlnt)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 ## Introduction

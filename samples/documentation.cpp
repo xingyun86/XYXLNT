@@ -25,7 +25,7 @@
 #include "helpers/path_helper.hpp"
 
 // Readme
-// from https://tfussell.gitbooks.io/xyxlnt/content/ and https://github.com/tfussell/xyxlnt/blob/master/README.md
+// from https://github.com/xingyun86/XYXLNT/blob/master/README.md
 void sample_readme_example1()
 {
     xyxlnt::workbook wb;
@@ -42,7 +42,6 @@ void sample_readme_example1()
 }
 
 // Simple - reading from an existing xlsx spread sheet.
-// from https://tfussell.gitbooks.io/xyxlnt/content/docs/introduction/Examples.html
 void sample_read_and_print_example()
 {
     xyxlnt::workbook wb;
@@ -60,7 +59,6 @@ void sample_read_and_print_example()
 }
 
 // Simple - storing a spread sheet in a 2 dimensional C++ Vector for further processing
-// from https://tfussell.gitbooks.io/xyxlnt/content/docs/introduction/Examples.html
 void sample_read_into_vector_example()
 {
     xyxlnt::workbook wb;
@@ -93,7 +91,6 @@ void sample_read_into_vector_example()
 }
 
 // Simple - writing values to a new xlsx spread sheet.
-// from https://tfussell.gitbooks.io/xyxlnt/content/docs/introduction/Examples.html
 void sample_write_sheet_to_file_example()
 {
     // Creating a 2 dimensional vector which we will write values to
@@ -146,7 +143,6 @@ void sample_write_sheet_to_file_example()
 }
 
 // Number Formatting
-// from https://tfussell.gitbooks.io/xyxlnt/content/docs/advanced/Formatting.html
 void sample_number_formatting_example()
 {
     xyxlnt::workbook wb;
@@ -157,7 +153,6 @@ void sample_number_formatting_example()
               << cell.to_string() << std::endl;
 }
 // Properties
-// from https://tfussell.gitbooks.io/xyxlnt/content/docs/advanced/Properties.html
 void sample_properties_example()
 {
     xyxlnt::workbook wb;

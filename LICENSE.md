@@ -1,7 +1,7 @@
 # License
 
-## [xyxlnt](https://github.com/tfussell/xyxlnt)
->[MIT License](https://github.com/tfussell/xyxlnt/blob/master/LICENSE.md)
+## [xyxlnt](https://github.com/xingyun86/XYXLNT)
+>[MIT License](https://github.com/xingyun86/XYXLNT/blob/master/LICENSE.md)
 
 ```
 Copyright (c) 2014-2018 Thomas Fussell

@@ -6,10 +6,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CXX_EXTENSIONS OFF)
 
 # Project metadata
-#set(PROJECT_VENDOR "Thomas Fussell")
-#set(PROJECT_CONTACT "thomas.fussell@gmail.com")
-#set(PROJECT_URL "https://github.com/tfussell/xyxlnt")
-#set(PROJECT_DESCRIPTION "cross-platform user-friendly xlsx library for C++11")
+set(PROJECT_VENDOR "xingyun86")
+set(PROJECT_CONTACT "375182886@qq.com")
+set(PROJECT_URL "https://github.com/xingyun86/XYXLNT")
+set(PROJECT_DESCRIPTION "cross-platform xlsx library")
 
 # Commonly used project directories
 set(XYXLNT_ROOT_DIR ${CMAKE_CURRENT_SOURCE_DIR}/..)

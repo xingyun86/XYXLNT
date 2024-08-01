@@ -2,7 +2,7 @@
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 ## Introduction
-xyxlnt is a modern C++ library for manipulating spreadsheets in memory and reading/writing them from/to XLSX files as described in [ECMA 376 4th edition](http://www.ecma-international.org/publications/standards/Ecma-376.htm). The first public release of xyxlnt version 1.0 was on May 10th, 2017. Current work is focused on increasing compatibility, improving performance, and brainstorming future development goals. For a high-level summary of what you can do with this library, see [the feature list](https://tfussell.gitbooks.io/xyxlnt/content/docs/introduction/Features.html). Contributions are welcome in the form of pull requests or discussions on [the repository's Issues page](https://github.com/xingyun86/xyxyxlnt/issues).
+xyxlnt is a modern C++ library for manipulating spreadsheets in memory and reading/writing them from/to XLSX files as described in [ECMA 376 4th edition](http://www.ecma-international.org/publications/standards/Ecma-376.htm). The first public release of xyxlnt version 1.0 was on May 10th, 2017. Current work is focused on increasing compatibility, improving performance, and brainstorming future development goals. For a high-level summary of what you can do with this library. Contributions are welcome in the form of pull requests or discussions on [the repository's Issues page](https://github.com/xingyun86/xyxyxlnt/issues).
 
 ## Example
 

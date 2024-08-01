@@ -242,8 +242,8 @@ setup(
     author_email = 'thomas.fussell@gmail.com',
     maintainer = 'Thomas Fussell',
     maintainer_email = 'thomas.fussell@gmail.com',
-    url = 'https://github.com/tfussell/xyxlnt',
-    download_url = 'https://github.com/tfussell/xyxlnt/releases',
+    url = 'https://github.com/xingyun86/XYXLNT',
+    download_url = 'https://github.com/xingyun86/XYXLNT/releases',
     packages = ['xyxlntpyarrow'],
     ext_modules = [Extension('xyxlntpyarrow.lib', [])],
     cmdclass = {
